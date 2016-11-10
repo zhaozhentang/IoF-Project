@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "789043049040",
+    "firebase_url": "https://iofnotification-145511.firebaseio.com",
+    "project_id": "iofnotification-145511",
+    "storage_bucket": "iofnotification-145511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789043049040:android:b0d0f7d102f9734e",
+        "android_client_info": {
+          "package_name": "com.QUTIoF.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789043049040-0mt6ujn8areucem7tqhqmepn104afkl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzf4P-QHYxa--wEzCcbDN_ejZW1nYf4Vk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
